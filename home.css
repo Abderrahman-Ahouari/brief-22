@@ -1,0 +1,143 @@
+nav{
+
+height: 100vh;
+background-image: url(images/background-1.png), url(images/background-2.png);
+background-size: cover;
+background-position: center;
+padding: 10px 8%;
+
+}
+ 
+.navitem{
+    font-size: xx-large;
+    text-decoration: none;
+    color: white;
+    margin-left: 60px;
+    font-size:25px;
+    
+}
+.navitems{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: sans-serif;
+    
+}
+ li {
+    display: flex;
+    
+    justify-content: space-between;
+    
+    
+}
+.aa{
+    display: flex;
+    justify-content: space-between;
+}
+.login{
+    border-radius: 50px ;
+    background-color: transparent;
+    height: 40px;
+    width: 100px;
+    color: white;
+    border: 1px solid white;
+}
+.btsmain{
+     margin-top: 40px;
+     margin-left: 2px;
+}
+.textmain1{
+    font-size: 40px;
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+.textmain2{
+    font-size: 18px;
+    position: absolute;
+    left: 800px;
+    top: 350px;
+}
+.buttmain1{
+    border-radius: 50px;
+    height: 60px;
+    width: 182px;
+    background: #F5167E;
+    border-style: hidden;
+    position: absolute;
+    top: 450px;
+    right: 500px;
+    
+    
+}
+.buttmain2{
+    background: transparent;
+    border-style: solid;
+    border-radius: 50px;
+    height: 60px;
+    position: absolute;
+    width: 182px;
+    top: 450px;
+    right: 300px;
+}
+.buttmai{
+   text-decoration: none;
+   color: white;
+   font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box{
+     width: 300px;
+     height: 100px;
+     background-color:#242565;
+     margin: auto;
+     width: 80%;
+     height: 140px ;
+     border-radius: 20px;
+     margin-top: -90px;
+     display: flex;
+     justify-content: space-around;
+    }
+
+.box1{
+    width: 28%;
+    height: 120px;
+    background-color: transparent; 
+    border: solid 2px ;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+}
+
+.box2{
+    width: 28%;
+    height: 120px;
+    background-color: transparent; 
+    border: solid 2px ;
+    border-top: none;
+    border-left: none;
+    border-right: none; 
+}
+
+.box3{
+    width: 28%;
+    height: 120px;
+    background-color: transparent; 
+    border: solid 2px ;
+    border-top: none;
+    border-left: none;
+    border-right: none;  
+}
