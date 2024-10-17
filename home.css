@@ -209,3 +209,59 @@ padding: 10px 8%;
 
    
 }
+
+
+
+
+
+ /* about */
+
+ .box11{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 50px;
+
+ }
+ .title{
+    font-size: 55px;
+
+ }
+ .pharagraph{
+    font-size: 30px;
+ }
+ .text{
+    margin-top: -55px;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* footer */
+
+ .footer{
+ background-color: #242565;
+ width: 100%;
+ height: 400px;
+
+}
+
