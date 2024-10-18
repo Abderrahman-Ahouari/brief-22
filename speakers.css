@@ -1,0 +1,21 @@
+.firstspeaker{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.titlespeaker{
+    font-size: 40px;
+}
+.paraspeaker{
+    font-size: 30px;
+
+}
+.para111{
+    margin-right: 120px;
+}
+.para222{
+    margin-right: 250px;
+}
+.para333{
+    margin-right: 200px;
+}
